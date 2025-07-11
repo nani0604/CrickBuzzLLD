@@ -1,7 +1,9 @@
-Cricbuzz LLD
+#Cricbuzz LLD
+
 This repository contains the Low-Level Design (LLD) of a cricket score tracking system inspired by Cricbuzz. The focus is on building scalable, maintainable object-oriented models and demonstrating solid software design principles.
 
 ✅ Project Overview
+
 I have implemented the Cricbuzz Low-Level Design (LLD) covering core components such as:
 
 Match Types (ODI, T20, Test Matches)
@@ -37,7 +39,7 @@ Copy
 Edit
 git clone https://github.com/your-username/cricbuzz-lld.git
 cd cricbuzz-lld
-# Run your main application file here
+
 ✅ What I Learned
 End-to-end modeling of real-world systems
 
